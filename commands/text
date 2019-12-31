@@ -1,0 +1,90 @@
+cloned (doesnt have to happen every time)
+made page
+pushing the page
+
+
+
+//
+   45  ls
+   46  cd source/
+   47  vim test.c
+   48  sudo apt install vim
+   49  clear
+   50  ls
+   51  vim test.c
+   52  ls
+   53  git status
+   54  cd
+   55  ls
+   56  cd Development/
+   57  cd development-group-us/
+   58  git status
+   59  git add source
+   60  clear
+   61  git status
+   62  git commit -m "testing something first commit"
+   63  git config --global user.email "mujtabamujeeb786@gmail.com"
+   64  git config --global user.name "Mujtaba"
+   65  git commit -m "testing something first commit"
+   66  get status
+   67  git status
+   68  git push
+   69  clea
+   70  clear
+   71  history
+   72  ls
+   73  cd source
+   74  ls
+   75  vim test.c 
+   76  git status
+   77  git diff
+   78  gcc test.c
+   79  sudo apt install gcc
+   80  gcc -o test test.c
+   81  ./test
+   82  clear
+   83  ./test
+   84  ls
+   85  cat test
+   86  clear
+   87  ls
+   88  history
+   89  clear
+   90  ls
+   91  cd ..
+   92  ls
+   93  history
+   54  cd
+   55  ls
+   56  cd Development/
+   57  cd development-group-us/
+   58  git status
+   59  git add source
+   60  clear
+   61  git status
+   62  git commit -m "testing something first commit"
+   63  git config --global user.email "mujtabamujeeb786@gmail.com"
+   64  git config --global user.name "Mujtaba"
+   65  git commit -m "testing something first commit"
+   66  get status
+   67  git status
+   68  git push
+   69  clea
+   70  clear
+   71  history
+   72  ls
+   73  cd source
+   74  ls
+   75  vim test.c 
+   76  git status
+   77  git diff
+   78  gcc test.c
+   79  sudo apt install gcc
+   80  gcc -o test test.c
+   81  ./test
+
+Basically you have to follow these three commands in order to push anything
+git add "dir name"
+git commit -m "name here"
+git push
+//
